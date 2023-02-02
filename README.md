@@ -1,13 +1,13 @@
 <h1 align="center">Hola me llamo Didier Brange</h1>
-<h3 align="center">Soy un Frontend Developer</h3>
+<h3 align="center">Soy un Fullstack Developer</h3>
 
-- 🌱 I’m currently learning **nextJS**
+- 🌱 Actualmente estoy aprendiendo **nextJS**
 
-- 👨‍💻 All of my projects are available at [https://dbrange.github.io/portfolio](https://dbrange.github.io/portfolio)
+- 👨‍💻 Todos mis proyectos estan disponibles en [https://dbrange.github.io/portfolio](https://dbrange.github.io/portfolio)
 
-- 💬 Ask me about **ReactJS, ReduxJS, TypeScript, NodeJS, Express,MySQL, HTML, CSS,SCSS, Javscript**
+- 💬 Tecnoligias que domino: **ReactJS, ReduxJS, TypeScript, NodeJS, Express,MySQL, HTML, CSS,SCSS, Javscript**
 
-- 📫 How to reach me **brangedidier@gmail.com**
+- 📫 Donde encontrarme **brangedidier@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
