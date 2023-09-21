@@ -1,6 +1,6 @@
 ### Hola 👋, mi nombre es Didier Brange
 #### Fullstack Developer
-![Fullstack Developer](https://i.postimg.cc/dVyCJVsZ/banner.png)
+[![Captura-de-pantalla-2023-09-21-115021.png](https://i.postimg.cc/1tKM9TLD/Captura-de-pantalla-2023-09-21-115021.png)](https://postimg.cc/N95RDNG0)
 
 Mi pasatiempos es el codigo y a veces si se da la ocacion, poder enseñar a manejar codigo
 
