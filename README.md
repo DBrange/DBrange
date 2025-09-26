@@ -2,8 +2,6 @@
 
 ### <div align="center">🚀 Desarrollador Fullstack | Apasionado por transformar ideas en código</div>
 
-<br/>
-
 <div align="center">
   
 [![Captura-de-pantalla-2023-09-21-115021.png](https://i.postimg.cc/1tKM9TLD/Captura-de-pantalla-2023-09-21-115021.png)](https://postimg.cc/N95RDNG0)
@@ -60,7 +58,6 @@
 
 ## 📈 Lo que estoy haciendo actualmente
 
-// - 🔭 **Trabajando en:** [Bradi](https://dbrange.github.io/portfolio/)
 - 🔭 **Trabajando en:** Bradi
 - 🌱 **Aprendiendo:** Next.js y nuevas tecnologías del ecosistema React
 - 👯 **Buscando colaborar en:** Proyectos que promuevan el crecimiento mutuo
