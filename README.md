@@ -62,19 +62,9 @@
 
 ---
 
-## 🚀 Mi Portfolio
-
-<div align="center">
-  <a href="https://dbrange.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Mi_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Mi Portfolio" />
-  </a>
-</div>
-
----
-
 ## 📈 Lo que estoy haciendo actualmente
 
-- 🔭 **Trabajando en:** [Mi Aplicacion personal](https://dbrange.github.io/portfolio/)
+- 🔭 **Trabajando en:** [Bradi](https://dbrange.github.io/portfolio/)
 - 🌱 **Aprendiendo:** Next.js y nuevas tecnologías del ecosistema React
 - 👯 **Buscando colaborar en:** Proyectos que promuevan el crecimiento mutuo
 - 💬 **Pregúntame sobre:** JavaScript, React, Node.js o cualquier tecnología web
