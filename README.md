@@ -56,29 +56,25 @@
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### Metodologías Ágiles
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Mi Portfolio
 
 <div align="center">
-  
-| 🎯 Proyecto | 💻 Tecnologías | 🔗 Enlaces |
-|-------------|----------------|------------|
-| **Mi Portfolio** | React, TypeScript, CSS | [🌐 Ver proyecto](https://dbrange.github.io/portfolio/) |
-| **Próximo proyecto** | Next.js, Node.js | 🚧 En desarrollo |
-
+  <a href="https://dbrange.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Mi_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Mi Portfolio" />
+  </a>
 </div>
 
 ---
 
 ## 📈 Lo que estoy haciendo actualmente
 
-- 🔭 **Trabajando en:** [Mi Portfolio Personal](https://dbrange.github.io/portfolio/)
+- 🔭 **Trabajando en:** [Mi Aplicacion personal](https://dbrange.github.io/portfolio/)
 - 🌱 **Aprendiendo:** Next.js y nuevas tecnologías del ecosistema React
 - 👯 **Buscando colaborar en:** Proyectos que promuevan el crecimiento mutuo
 - 💬 **Pregúntame sobre:** JavaScript, React, Node.js o cualquier tecnología web
@@ -89,13 +85,10 @@
 ## 🤝 Conecta conmigo
 
 <div align="center">
-  <a href="https://github.com/DBrange" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/didierbrange/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dbrange.github.io/portfolio/" target="_blank">
+  <a href="https://dbrange.github.io/portfolio/" target="https://dbrange.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:brangedidier@gmail.com">
@@ -104,8 +97,6 @@
 </div>
 
 ---
-
-### <div align="center">🎵 "Code is poetry written in logic" 🎵</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=¡Gracias+por+visitar+mi+perfil!+😊;¡Vamos+a+crear+algo+increíble+juntos!+🚀" />
