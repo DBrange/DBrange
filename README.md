@@ -2,10 +2,6 @@
 
 ### <div align="center">🚀 Desarrollador Fullstack | Apasionado por transformar ideas en código</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DBrange&label=Visitas&color=0e75b6&style=flat" alt="Contador de visitas" />
-</div>
-
 <br/>
 
 <div align="center">
@@ -64,7 +60,8 @@
 
 ## 📈 Lo que estoy haciendo actualmente
 
-- 🔭 **Trabajando en:** [Bradi](https://dbrange.github.io/portfolio/)
+// - 🔭 **Trabajando en:** [Bradi](https://dbrange.github.io/portfolio/)
+- 🔭 **Trabajando en:** Bradi
 - 🌱 **Aprendiendo:** Next.js y nuevas tecnologías del ecosistema React
 - 👯 **Buscando colaborar en:** Proyectos que promuevan el crecimiento mutuo
 - 💬 **Pregúntame sobre:** JavaScript, React, Node.js o cualquier tecnología web
